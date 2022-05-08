@@ -27,8 +27,8 @@ Few things I'd like to add in the future:
 
 ### Prerequisites
 
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-tab)
-- [Node.js](https://nodejs.org/en/)
+- [isg kursu](https://www.kariyerenstitusu.com.tr/is-guvenligi-uzmanligi-egitimi)
+- [işyeri hekimliği eğitimi](https://www.kariyerenstitusu.com.tr/isyeri-hekimligi-egitimi)
 
 ```bash
 # ensure you have the prerequisites
